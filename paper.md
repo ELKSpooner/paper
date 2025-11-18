@@ -2,8 +2,8 @@
 Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
 # Author
-Emma Spooner
-John Smith
+Emma Spooner, University of Manchester
+John Smith, University of Elsewhere 
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa. 
